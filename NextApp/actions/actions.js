@@ -1,0 +1,1 @@
+export default Actions={INCREMENT:"INCREMENT",DECREMENT:"DECREMENT"};
